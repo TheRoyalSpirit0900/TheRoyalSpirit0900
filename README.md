@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![I Use](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
 ## I Know how to write in
 [![I Know how to write in](https://skillicons.dev/icons?i=js,java,py,c)](https://skillicons.dev)
-- I have written in RobotC, a version of C
+- I have written in RobotC, a version of C used for VexRobotics
 - I Have Basic Java & Python Knowledge
 - I Have been Building on my javascript skills for awhile and intend to resume doing so
 ## I’m currently learning
