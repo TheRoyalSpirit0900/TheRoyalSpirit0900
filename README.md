@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, Im Royal 👋
 
 <!--
 Here are some ideas to get you started:
