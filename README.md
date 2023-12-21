@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ## I’m currently learning
 [![I'm Currently Learning](https://skillicons.dev/icons?i=html,css,raspberrypi)](https://skillicons.dev)
 ## I Plan to Learn
-[![I Plan to Learn](https://skillicons.dev/icons?i=nodejs,react,,ts)](https://skillicons.dev)
+[![I Plan to Learn](https://skillicons.dev/icons?i=nodejs,react,ts)](https://skillicons.dev)
