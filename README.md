@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I Use
+(https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
+## I Plan Know how to write
+(https://skillicons.dev/icons?i=js,java,py,c)](https://skillicons.dev)
+- I have written in RobotC, a version of C
+- I Have Basic Java & Python Knowledge
+- I Have been Building on my javascript skills for awhile and intend to resume doing so
+## I’m currently learning
+(https://skillicons.dev/icons?i=html,css,raspberrypi)](https://skillicons.dev)
+## I Plan to Learn
+(https://skillicons.dev/icons?i=nodejs,react,,ts)](https://skillicons.dev)
