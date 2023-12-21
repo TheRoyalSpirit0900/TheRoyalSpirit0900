@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 [![I Plan to Learn](https://skillicons.dev/icons?i=nodejs,react,ts)](https://skillicons.dev)
 
 ## Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRoyalSpirit0900&theme=radical&show_icons=true)
 ![](https://raw.githubusercontent.com/TheRoyalSpirit0900/github-stats/master/generated/languages.svg#gh-dark-mode-only)
