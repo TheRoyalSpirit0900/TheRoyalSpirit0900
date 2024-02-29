@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - I Have Basic Java & Python Knowledge
 - I Have been Building on my javascript skills for awhile and intend to resume doing so
 ## I’m currently learning
-[![I'm Currently Learning](https://skillicons.dev/icons?i=html,css,raspberrypi)](https://skillicons.dev)
+[![I'm Currently Learning](https://skillicons.dev/icons?i=html,css,nodejs)](https://skillicons.dev)
 ## I Plan to Learn
-[![I Plan to Learn](https://skillicons.dev/icons?i=nodejs,react,ts)](https://skillicons.dev)
+[![I Plan to Learn](https://skillicons.dev/icons?i=raspberrypi,react,lua,ts)](https://skillicons.dev)
