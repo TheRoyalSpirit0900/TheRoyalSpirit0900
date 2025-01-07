@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I Use
-[![I Use](https://skillicons.dev/icons?i=discord,github,vscode)](https://skillicons.dev)
+[![I Use](https://skillicons.dev/icons?i=discord,github,vscode,idea)](https://skillicons.dev)
 ## I Know how to write in
 [![I Know how to write in](https://skillicons.dev/icons?i=js,java,py,c)](https://skillicons.dev)
 - I have written in RobotC, a version of C used for VexRobotics
